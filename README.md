@@ -2,7 +2,7 @@
 
 Camila Rodriguez 
 
-### Ejecutar
+## Ejecutar
 
 - Correr script en pgAdmin `db.sql` para crear la base de datos
 - Configuar conexión a la base de datos según `application.properties`
@@ -28,3 +28,6 @@ Credenciales de ejemplo:
 - `application.properties` configuración
 - `db.sql` script SQL de base de datos
 
+## Link demo
+
+https://drive.google.com/file/d/1nlgAnNo6A8DOZPOYdV96FSNMSQlyTw6Y/view?usp=sharing
